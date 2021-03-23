@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![Jisu-Shin's github stats](https://github-readme-stats.vercel.app/api?username=jisu-shin&show_icons=true&theme=radical)
+
 <!--
 **Jisu-Shin/jisu-shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
