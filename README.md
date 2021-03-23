@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Jisu-Shin's%20Github&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Jisu-Shin's%20Github&fontSize=30)
 
 안녕하세요 . 백엔드 개발자로 취뽀하고 싶은 신지수 입니다.
 
