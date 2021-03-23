@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sjszzang0929)](https://solved.ac/sjszzang0929)
 ![Jisu-Shin's github stats](https://github-readme-stats.vercel.app/api?username=jisu-shin&show_icons=true&theme=dracula)
 
 <!--
