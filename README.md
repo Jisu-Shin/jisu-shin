@@ -7,9 +7,6 @@
 
 
 ### Online Judge 💻
-
-* BOJ: [Kinetic27](http://icpc.me/sjszzang0929)
-  * solvedac: [Kinetic27](https://solved.ac/profile/sjszzang0929)
   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sjszzang0929)](https://solved.ac/sjszzang0929)
 
