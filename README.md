@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hi There 👋&fontSize=45&&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hi%20There%20👋&fontSize=45&&fontAlignY=30)
 
 안녕하세요 . 백엔드 개발자<u>로 취뽀하고 싶은</u> 신지수 입니다.
 
