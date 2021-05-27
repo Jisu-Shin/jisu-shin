@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jisu-Shin's%20Github&fontSize=40&&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hi There 👋&fontSize=45&&fontAlignY=30)
 
-안녕하세요 . 백엔드 개발자로 취뽀하고 싶은 신지수 입니다.
+안녕하세요 . 백엔드 개발자<u>로 취뽀하고 싶은</u> 신지수 입니다.
 
 ![Jisu-Shin's github stats](https://github-readme-stats.vercel.app/api?username=jisu-shin&show_icons=true)
 [![Jisu-Shin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jisu-shin&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jisu-shin)
