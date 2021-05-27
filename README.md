@@ -20,4 +20,4 @@
   </div>
   
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
