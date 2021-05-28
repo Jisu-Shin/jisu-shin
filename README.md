@@ -4,24 +4,27 @@
 
 ## 📖 About me
 
-* 2016.03 강원대학교 컴퓨터정보통신공학과 입학
-* 아시아경제 인공지능 수료
-* SSAFY 5기 
+* 🌱 2016.03 강원대학교 컴퓨터정보통신공학과 입학
+* 💬 2020.09 인공지능 딥러닝 기반 자연어처리 전문가과정 수료
+* ✍ 2021.01 SSAFY 5기 합격
 * 👩‍🎓 2021.02 강원대학교 컴퓨터정보통신공학과 졸업
+* 🏙 2021.05 뱅크웨어글로벌 입사
 
+<br>
 
-
-## Online Judge 💻
+## 💻 Online Judge 
   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sjszzang0929)](https://solved.ac/sjszzang0929)
 
+<br>
 
 ## 📈 Github Stats
 ![Jisu-Shin's github stats](https://github-readme-stats.vercel.app/api?username=jisu-shin&show_icons=true)
 [![Jisu-Shin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jisu-shin&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jisu-shin)
 
+<br>
 
-### Contacts 📫
+## 📫 Contacts 
 
 * Email: sjszzang3053@gmail.com
 
