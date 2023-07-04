@@ -1,14 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There%20👋&fontSize=45&&fontAlignY=30)
 
-안녕하세요 . 백엔드 개발자 <STRIKE>로 취뽀하고 싶은</STRIKE> 신지수 입니다.
+안녕하세요 . 
 
 ## 📖 About me
-
-* 🌱 2016.03 강원대학교 컴퓨터정보통신공학과 입학
-* 💬 2020.09 인공지능 딥러닝 기반 자연어처리 전문가과정 수료
-* ✍ 2021.01 SSAFY 5기 합격
-* 👩‍🎓 2021.02 강원대학교 컴퓨터정보통신공학과 졸업
-* 🏙 2021.05 뱅크웨어글로벌 입사
 
 <br>
 
