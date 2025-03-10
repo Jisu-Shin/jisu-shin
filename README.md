@@ -10,17 +10,6 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <br>
 
 
-## 🚀 Projects
-#### 📞 고객 서비스 시스템
-**설명:** 고객 문의(SMS, 이메일, 전화)를 추적하고, 지원 이력을 관리하는 시스템  
-**기술 스택:** Spring Boot, JPA, MySQL  
-**주요 기여:** 
-- 대량의 SMS 데이터를 효과적으로 처리하기 위해 **쿼리 최적화 및 파티셔닝 적용**  
-- 내부 및 외부 팀을 위한 **API 가이드 작성 및 인터페이스 설계**  
-🔗 [GitHub Repository](https://github.com/Jisu-Shin/jisutudy)  
-<br>
-
-
 ## 📚 Learning History
 #### 2025년 ~
 - **스프링 클라우드 MSA** (Youtube, 강사: 개발자 유미)
