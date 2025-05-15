@@ -26,7 +26,7 @@
 
 ## 📫 Contact
 
-- Email: sjszzang3053@gmail.com
+- Email: shinjs1997@gmail.com
 - Blog: 🔗 [zsu-log tistory](https://zsu-log.tistory.com/)
 - Resume: 🔗 [이력서 보기](https://www.rallit.com/resumes/261026@sjszzang3053/%EC%8B%A0%EC%A7%80%EC%88%98?theme=STANDARD)
 
