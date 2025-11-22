@@ -15,13 +15,13 @@
 
 ## 🚀 Personal Project: OO-SMS
 **OO-SMS (Object-Oriented SMS)**  
-🎭 공연 예매 고객에게 문자를 발송하기 위한 **객체지향 + MSA 기반 프로젝트**
+🎭 공연 예매 고객에게 문자를 발송하기 위한 **객체지향 + 멀티모듈 기반 프로젝트**
 
 - 고객 등록 및 수정
 - 공연 등록 및 예매
 - 문자 발송 및 템플릿 관리
 - **Spring Cloud + Docker + JPA + Mustache 웹**
-- GitHub: [🔗 OO-SMS Main Repo](https://github.com/Jisu-Shin/jisutudy)
+- GitHub: [🔗 OO-SMS Main Repo](https://github.com/Jisu-Shin/oo-sms)
 <br>
 
 ## 📫 Contact
