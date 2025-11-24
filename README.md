@@ -20,7 +20,7 @@
 - 고객 등록 및 수정
 - 공연 등록 및 예매
 - 문자 발송 및 템플릿 관리
-- **Spring Cloud + Docker + JPA + Mustache 웹**
+- **Spring Boot + Docker + JPA + Mustache 웹**
 - GitHub: [🔗 OO-SMS Main Repo](https://github.com/Jisu-Shin/oo-sms)
 <br>
 
