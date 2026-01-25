@@ -1,8 +1,9 @@
 # 👋 Hi there!
 
-안녕하세요, 백엔드 개발자 신지수 입니다. <br>
-객체지향적인 설계를 통해 역할과 구현을 명확하게 나누고, 추상화를 활용하여 유연하고 확장 가능한 서비스를 개발하는 데 집중하고 있습니다. <br>
-🌱 관심 기술: Spring Boot, Spring Cloud 기반 MSA, Spring Data JPA, Docker, REST API <br>
+안녕하세요, 백엔드 개발자 신지수입니다. <br>
+"동작하는 코드"를 넘어 "유지보수 가능한 코드"를 작성하는 것을 지향합니다.  <br>
+객체지향 설계 원칙과 패턴을 적용해 변경에 유연한 구조를 만들고, 병목 지점을 분석하여 비동기 처리와 병렬화로 성능을 개선합니다.  <br>
+모든 개선 사항은 정량적 지표로 측정하고 검증합니다.<br>
 <br>
 
 
@@ -13,15 +14,34 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> 
 <br> <br>
 
-## 🚀 Personal Project: OO-SMS
-**OO-SMS (Object-Oriented SMS)**  
-🎭 공연 예매 고객에게 문자를 발송하기 위한 **객체지향 + 멀티모듈 기반 프로젝트**
+## 🚀 Personal Projects
 
-- 고객 등록 및 수정
-- 공연 등록 및 예매
-- 문자 발송 및 템플릿 관리
-- **Spring Boot + Docker + JPA + Mustache 웹**
-- GitHub: [🔗 OO-SMS Main Repo](https://github.com/Jisu-Shin/oo-sms)
+### 🏊 SwimColor - AI 기반 수영복-수모 색상 매칭 시스템 [![Live](https://img.shields.io/badge/Service-Live-success)](https://8egpibrfhv.ap-northeast-1.awsapprunner.com/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/yourusername/swimcolorProject)
+
+**수영복/수모 색상 조합 추천 서비스**
+
+- 🎯 **핵심 기술**: YOLOv8 Segmentation + CIEDE2000 색상 유사도
+- 🏗️ **아키텍처**: MSA (Spring Boot + FastAPI)
+- ⚡ **주요 개선**: 비동기 크롤링으로 120초 타임아웃 해결 (42건 → 126건)
+- 🚀 **배포**: AWS App Runner + GitHub Actions CI/CD
+
+`Spring Boot 3.5.9` `FastAPI 0.127.0` `YOLOv8` `OpenCV` `MySQL`
+
+<br>
+
+### 🎭 OO-SMS (Object-Oriented SMS) [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/Jisu-Shin/oo-sms)
+
+**공연 예매 고객 문자 발송 시스템**
+
+- **주요 기능**
+  - 고객 등록 및 수정
+  - 공연 등록 및 예매
+  - 문자 발송 및 템플릿 관리
+- **기술 스택**: 객체지향 + 멀티모듈 기반 설계
+- 🚀 **배포**: Docker 기반 컨테이너화
+
+`Spring Boot` `Docker` `JPA` `Mustache`
+
 <br>
 
 ## 📫 Contact
