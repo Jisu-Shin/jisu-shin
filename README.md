@@ -16,7 +16,7 @@
 
 ## 🚀 Personal Projects
 
-### 🏊 SwimColor - AI 기반 수영복-수모 색상 매칭 시스템 [![Live](https://img.shields.io/badge/Service-Live-success)](d1iq2qlestvas6.cloudfront.net) [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/Jisu-Shin/swimcolorProject)
+### 🏊 SwimColor - AI 기반 수영복-수모 색상 매칭 시스템 [![Live](https://img.shields.io/badge/Service-Live-success)](https://d1iq2qlestvas6.cloudfront.net/swimsuits) [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/Jisu-Shin/swimcolorProject)
 
 **수영복/수모 색상 조합 추천 서비스**
 
